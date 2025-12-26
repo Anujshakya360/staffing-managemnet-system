@@ -1,0 +1,5 @@
+{
+  "name": "ProStaff - Modern Staffing Subsystem",
+  "description": "A high-end staffing workflow management system featuring Job Order creation, Candidate Assignment, and Timesheet Approval. Designed for hackathons with industry-grade SQL and ASP.NET patterns.",
+  "requestFramePermissions": []
+}
